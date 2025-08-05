@@ -1,0 +1,3 @@
+[submodule "intern-dashboard-frontend"]
+	path = intern-dashboard-frontend
+	url = https://github.com/lakshita-01/she-can-foundation.git
