@@ -278,3 +278,11 @@ For support and questions:
 ---
 
 **Built with ❤️ for She Can Foundation**
+screenshots for deployed website...
+![login](image.png)
+![dashboard-1](image-1.png)
+![dashboard-2](image-2.png)
+![leaderboard-1](image-3.png)
+![leaderboard-2](image-4.png)
+![leaderboard-3](image-5.png)
+![leaderboard-4](image-6.png)
